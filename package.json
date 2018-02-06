@@ -1,0 +1,19 @@
+{
+  "name": "linear-sth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arcydemon/linear-sth.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arcydemon/linear-sth/issues"
+  },
+  "homepage": "https://github.com/arcydemon/linear-sth#readme"
+}
