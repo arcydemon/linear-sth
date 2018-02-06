@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/arcydemon/linear-sth/issues"
   },
-  "homepage": "https://github.com/arcydemon/linear-sth#readme"
+  "homepage": "https://github.com/arcydemon/linear-sth#readme",
+  "devDependencies": {
+    "ava": "^0.25.0"
+  }
 }
